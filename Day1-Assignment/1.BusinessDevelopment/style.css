@@ -1,0 +1,51 @@
+* {
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.bd-card {
+    background-color: #6ce299;
+    height: 500px;
+    width: 500px;
+    border-radius: 14px;
+    padding: 10px;
+    margin: 16px auto;
+    box-sizing: border-box;
+}
+
+.bd-box1 {
+    border: 1px solid red;
+    height: 200px;
+}
+
+.paragraph1-bd {
+
+    font-size: 40px;
+    padding-left: 50px;
+    padding-top: 100px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 700;
+}
+
+.paragraph2-bd {
+    font-size: 14px;
+    padding-left: 50px;
+    padding-top: 30px;
+    font-family: "Open Sans", sans-serif;
+    font-weight: 550;
+}
+
+.btn {
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.btn-bd {
+    border: none;
+    padding: 10px 30px;
+    font-family: "Open Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    border-radius: 60px;
+}
